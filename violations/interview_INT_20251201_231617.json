@@ -1,0 +1,40 @@
+{
+  "interview_id": "INT_20251201_231617",
+  "candidate": "234567",
+  "start_time": "2025-12-01 23:16:22",
+  "violations": [
+    {
+      "timestamp": "2025-12-01 23:16:43",
+      "type": "LOOKING_AWAY",
+      "description": "Candidate looking away: looking_down",
+      "interview_id": "INT_20251201_231617",
+      "candidate": "234567",
+      "screenshot": "violations/violation_20251201_231643.jpg"
+    },
+    {
+      "timestamp": "2025-12-01 23:17:10",
+      "type": "LOOKING_AWAY",
+      "description": "Candidate looking away: looking_down",
+      "interview_id": "INT_20251201_231617",
+      "candidate": "234567",
+      "screenshot": "violations/violation_20251201_231710.jpg"
+    },
+    {
+      "timestamp": "2025-12-01 23:17:32",
+      "type": "SUSPICIOUS_OBJECT",
+      "description": "Suspicious object detected: tv (confidence: 0.80)",
+      "interview_id": "INT_20251201_231617",
+      "candidate": "234567",
+      "screenshot": "violations/violation_20251201_231732.jpg"
+    },
+    {
+      "timestamp": "2025-12-01 23:17:35",
+      "type": "SUSPICIOUS_OBJECT",
+      "description": "Suspicious object detected: cell phone (confidence: 0.60)",
+      "interview_id": "INT_20251201_231617",
+      "candidate": "234567",
+      "screenshot": "violations/violation_20251201_231735.jpg"
+    }
+  ],
+  "total_violations": 4
+}

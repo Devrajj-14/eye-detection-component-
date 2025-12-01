@@ -1,0 +1,16 @@
+{
+  "interview_id": "INT_20251201_231544",
+  "candidate": "1234",
+  "start_time": "2025-12-01 23:15:56",
+  "violations": [
+    {
+      "timestamp": "2025-12-01 23:16:04",
+      "type": "NO_FACE",
+      "description": "Candidate face not visible for extended period",
+      "interview_id": "INT_20251201_231544",
+      "candidate": "1234",
+      "screenshot": "violations/violation_20251201_231604.jpg"
+    }
+  ],
+  "total_violations": 1
+}
