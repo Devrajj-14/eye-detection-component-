@@ -1,0 +1,16 @@
+# Deployment-optimized requirements (no dlib, no PyQt5, lighter dependencies)
+# This file is designed for cloud deployment (Streamlit Cloud, Render, etc.)
+# It removes packages that require system dependencies like CMake
+
+opencv-python-headless>=4.8.0
+numpy>=1.24.0,<2.0.0
+scipy>=1.10.0
+ultralytics>=8.0.0
+imutils>=0.5.4
+scikit-learn>=1.3.0
+streamlit>=1.28.0
+pillow>=9.0.0
+pyyaml>=6.0
+requests>=2.28.0
+pandas>=1.5.0
+matplotlib>=3.5.0
